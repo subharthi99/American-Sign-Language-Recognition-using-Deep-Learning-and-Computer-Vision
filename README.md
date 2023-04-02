@@ -1,4 +1,4 @@
-# American-Sign-Language-Recognition-using-Deep-Learning-and-Computer-Vision
+# American-Sign-Language Recognition using Deep Learning and Computer Vision
 The goal of this project is to build a deep learning model to read the American Sign Language from the images in the dataset from Kaggle. The intention is to create a successful model that will be able to classify the images to the characters in the American Sign Language in a real-time environment.
 
 With the power of computing ability in this advanced computer vision technology, coupled with deep learning models, using sign languages to interpret and communicate with deaf and mute people has become easier. In this repository, different deep learning models are used to interpret different characters in the American Sign Language. 
