@@ -10,4 +10,4 @@ In actualizing the proposed future work, the deployment and implementation of tw
 
 The dataset used to solve this problem can be found on [Kaggle](https://www.kaggle.com/datasets/grassknoted/asl-alphabet/code). It comprises of two folders, one for the training data and one for testing data. The whole training data comprises of 87,000 images. And it is a collection of 29 folders for the letters A-Z and, ‘del’, ‘space’ and ‘nothing’. Thus, every folder/character has 3000 images. For each image, the size on disk is about 12KB. And the testing data set comprises of 28 folders from A-Z and ‘space’ and ‘nothing’. The test data set contains a mere 28 images, to encourage the use of real- world test images. The whole dataset is of 1.11 GB.
 
-![Kaggle Logo](assets/img/kaggle-logo.png)
+![Kaggle Logo](assets/kaggle-logo.png)
